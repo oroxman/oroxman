@@ -1,0 +1,6 @@
+oroxman/LÉAME .md
+- 👋 Hola soy @oroxman
+- 👀 Me interesa aprender programación
+- 🌱 Actualmente estoy aprendiendo Python
+- 💞️ Busco colaborar en...
+- 📫 Como contactarme...
